@@ -1,12 +1,25 @@
-## Hi there 👋
+# 📚 책읽는 프롱이들
 
-<!--
+**함께 읽고, 함께 성장하는 프론트엔드 독서 스터디입니다.**
 
-**Here are some ideas to get you started:**
+## 👥 Who
+프론트엔드 개발자 또는 프론트엔드에 관심 있는 모든 사람들!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🗓️ How
+- 매주 1챕터 읽고 요약 및 토론
+- GitHub PR로 정리글 제출
+- 서로 질문과 피드백 주고받기
+
+## 📖 Now Reading
+- **우아한 타입스크립트 with 리액트** ([링크](https://product.kyobobook.co.kr/detail/S000210716282))
+
+## 📋 Rules
+- PR은 마감일 전까지 제출
+- 적극적인 피드백, 서로 존중 (오탈자, 잘못 기재된 부분 리뷰하기)
+- 결석 시 미리 공유
+- 챕터별 문제 출제는 이슈로 공유
+- 문제 출제는 스터디 하루 전 토요일 자정까지 업로드
+
+## ✨ Goals
+- 함께 성장하는 경험
+- 다양한 관점과 지식을 얻기
