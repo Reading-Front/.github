@@ -15,24 +15,24 @@
 
 ## 👾 스터디원 소개
 
-<table>
-<tbody>
-<tr>
-<td align="center"> <img width="200" alt="박보라 깃허브 프로필 이미지" src="https://github.com/brparkk.png"></td>
-<td align="center"> <img width="200" alt="김도현 깃허브 프로필 이미지" src="https://github.com/dkmqflx.png"></td>
-<td align="center"> <img width="200" alt="박선화 깃허브 프로필 이미지" src="https://github.com/sumzdev.png"></td>
-</tr>
-<tr>
-<th align="center">박보라</th>
-<th align="center">김도현</th>
-<th align="center">박선화</th>
-</tr>
-<tr>
-<td align="center" width="120"><a href="https://github.com/eeeyooon">@brparkk</a></td>
-<td align="center" width="120"><a href="https://github.com/lulla-by">@dkmqflx</a></td>
-<td align="center" width="120"><a href="https://github.com/sryung1225">@sumzdev</a></td>
-</tr>
-</tbody>
+<table align="center">
+  <tbody>
+    <tr>
+      <td align="center"> <img width="200" alt="박보라 깃허브 프로필 이미지" src="https://github.com/brparkk.png"></td>
+      <td align="center"> <img width="200" alt="김도현 깃허브 프로필 이미지" src="https://github.com/dkmqflx.png"></td>
+      <td align="center"> <img width="200" alt="박선화 깃허브 프로필 이미지" src="https://github.com/sumzdev.png"></td>
+    </tr>
+    <tr>
+      <th align="center">박보라</th>
+      <th align="center">김도현</th>
+      <th align="center">박선화</th>
+    </tr>
+    <tr>
+      <td align="center" width="120"><a href="https://github.com/eeeyooon">@brparkk</a></td>
+      <td align="center" width="120"><a href="https://github.com/lulla-by">@dkmqflx</a></td>
+      <td align="center" width="120"><a href="https://github.com/sryung1225">@sumzdev</a></td>
+    </tr>
+  </tbody>
 </table>
 
 ## 📝 선정된 도서 리스트
