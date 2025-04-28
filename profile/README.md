@@ -27,6 +27,7 @@
       <th align="center">박보라</th>
       <th align="center">김도현</th>
       <th align="center">박선화</th>
+      <th align="center">이지선</th>
     </tr>
     <tr>
       <td align="center" width="120"><a href="https://github.com/eeeyooon">@brparkk</a></td>
