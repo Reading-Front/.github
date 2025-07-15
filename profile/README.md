@@ -21,7 +21,6 @@
       <td align="center"> <img width="200" alt="박보라 깃허브 프로필 이미지" src="https://github.com/brparkk.png"></td>
       <td align="center"> <img width="200" alt="김도현 깃허브 프로필 이미지" src="https://github.com/dkmqflx.png"></td>
       <td align="center"> <img width="200" alt="박선화 깃허브 프로필 이미지" src="https://github.com/sumzdev.png"></td>
-      <td align="center"> <img width="200" alt="이지선 깃허브 프로필 이미지" src="https://github.com/eazyseon.png"></td>
     </tr>
     <tr>
       <th align="center">박보라</th>
@@ -33,7 +32,6 @@
       <td align="center" width="120"><a href="https://github.com/eeeyooon">@brparkk</a></td>
       <td align="center" width="120"><a href="https://github.com/lulla-by">@dkmqflx</a></td>
       <td align="center" width="120"><a href="https://github.com/sryung1225">@sumzdev</a></td>
-      <td align="center" width="120"><a href="https://github.com/sryung1225">@easyseon</a></td>
     </tr>
   </tbody>
 </table>
