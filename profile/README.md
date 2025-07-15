@@ -38,7 +38,8 @@
 ## 📝 선정된 도서 리스트
 | No. | 책 제목 | 저자 | 진행 기간 | 상태 |
 |:---:|:------|:----|:--------:|:----:|
-| 1 | ![우아한 타입스크립트 with 리액트](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791169211567.jpg) | 우아한형제들 저자 | 2025.04.27 ~ 2025.05.30 | <img alt="진행중" src="https://img.shields.io/badge/진행중-brightgreen?style=flat&logo=BookStack&logoColor=white" /> |
+| 1 | ![우아한 타입스크립트 with 리액트](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791169211567.jpg) | 우아한형제들 저자 | 2025.04.27 ~ 2025.05.30 | <img alt="완료" src="https://img.shields.io/badge/완료-8A2BE2?style=flat&logo=BookStack&logoColor=white" /> |
+| 2 | ![패턴으로 익히고 설계로 완성하는 리액트](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791169213417.jpg) | 준타오 추 저자(글) · 정재명 번역 | 2025.07.27 ~ 2025.09.30 | <img alt="시작전" src="https://img.shields.io/badge/시작전-fcf003?style=flat&logo=BookStack&logoColor=black" /> |
 
 
 ##  스터디 진행 방식
